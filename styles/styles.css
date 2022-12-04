@@ -1,0 +1,254 @@
+/* body styles */
+body {font-family: 'Montserrat', sans-serif;
+background-color: E5E5E5;
+}
+/* main styles */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+
+    
+}
+
+
+
+/* Sidebar styles */
+.sidebar {
+    background-color:#1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+/* .photo */
+.photo {
+    width: 370px;
+    margin-bottom: 50px
+}
+
+/* .sidebar_title */
+.sidebar_title
+{
+    color: #FFFFFF;   
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+/* contacts, tech_skills, Soft_Skills */
+.contacts,
+.tech_skills,
+.Soft_Skills  {
+    margin-left: 40px;
+    /* margin-bottom: 10px; */
+}
+.contacts 
+{
+    margin-bottom: 50px;
+}
+.tech_skills 
+{
+    margin-bottom: 45px;
+}
+/* contact_type */
+.contact_type {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+/* contact_link */
+.contact_link 
+{
+    color: #8E949C;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* .tech_skills_list */
+.tech_skills_list
+{
+    color: #C7C9CD;
+    padding: 0;
+    margin-left: 17px;
+    margin-bottom: 10px;
+    
+}
+/* tech_skills_item */
+.tech_skills_item 
+{
+    color: #FB6D3A;
+
+}
+/* tech_skills_text */
+.tech_skills_text
+{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+
+
+/* main_content */
+.main_content {
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+/* About styles */
+.About {
+    margin-bottom: 40px;
+}
+
+/* projects_list */
+.projects_list
+{
+    padding: 0%;
+    margin-left: 10px;
+}
+/* title styles */
+.title {
+    color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+/* project_item */
+.project_item
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 10px;
+}
+
+/* project_url */
+.project_url, .project_link
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+/* .project_link */
+.project_link 
+{
+margin-left: 10px;
+}
+/* project_bracket */
+.project_bracket
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* About_position */
+.About_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+    
+    
+}
+
+/* About_name */
+.About_name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 20px;
+}
+
+/* About_description */
+.About_description {
+    color: #595959;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+
+
+}
+
+/* projects styles */
+.projects{
+    margin-bottom: 50px;
+}
+
+/* Work styles */
+/* work_Position */
+.work_Position
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+/* organization */
+.organization
+{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 10px;
+}
+/* period */
+.period 
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8; 
+    margin-bottom: 10px;
+}
+/* line */
+.line
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+/* work_list */
+.work_list
+{
+    padding: 0;
+    margin-left: 10px;
+}
+/* .work_list_item */
+.work_list_item
+{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px
+    ;
+}
